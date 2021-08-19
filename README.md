@@ -1,4 +1,4 @@
-# infnet-bl3-dwj-tp1
+# Trabalho Prático 1
 ## Instituto Infnet
 ### Análise e Desenvolvimento de Sistemas - Desenvolvimento Web com Java EE
 #### Professor: Elberth Lins Costa de Moraes
